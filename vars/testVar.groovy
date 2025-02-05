@@ -1,3 +1,3 @@
 def call() {
-    echo "Test shared library works!"
+    echo "Test shared library works Change 2!"
 }
